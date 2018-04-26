@@ -2,31 +2,28 @@ body {
   text-align: center;
   font-family: "Verdana", sans-serif;
   background-color: black;
-}
-h1 {
   color: white;
 }
-.first {
-  font-size: 50px;
 
-}
-
-a {
-  color: Aquamarine;
+.cta {
+  color: aquamarine;
   font-size: 16px;
 }
 
-.second {
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
   font-size: 42px;
-  font-weight: 300;
 }
 
-h3 {
-  color: Gray;
+p {
   font-size: 21px;
+  color: gray;
 }
 
-footer p{
+.footer {
   text-align: right;
-  color: Gray;
 }
